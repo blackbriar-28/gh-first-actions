@@ -8,3 +8,7 @@ jobs:
       run: echo "Hello, world!"
     - name: Print bye
       run: echo "Done, Bye"
+    - name: Test more commands
+      run: |
+        echo "just checking"
+        pwd
