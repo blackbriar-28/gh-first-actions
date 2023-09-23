@@ -12,3 +12,5 @@ jobs:
       run: |
         echo "just checking"
         pwd
+    - name: print owner name
+      run: echo "aldo aranda"
